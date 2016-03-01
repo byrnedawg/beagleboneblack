@@ -47,14 +47,14 @@ int main()
 {
 
     example_GPIO();
-    example_ADC();
-    example_PWM();
-    example_SPI();
-    example_UART();
-    example_I2C();
-    example_directory();
-    example_threadAndMutex();
-    example_time();
+  //  example_ADC();
+  //  example_PWM();
+  //  example_SPI();
+  //  example_UART();
+  //  example_I2C();
+  //  example_directory();
+  //  example_threadAndMutex();
+  //  example_time();
 
 
     return 0;
